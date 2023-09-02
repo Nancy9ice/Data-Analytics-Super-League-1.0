@@ -1,6 +1,6 @@
 # Data Analytics Super League 1.0
 
-In this project, I showcased my skills in data cleaning, data visualization, SQL, A/B testing, and ML model building (precisely customer segmentation model).
+*In this project, I showcased my skills in data cleaning, data visualization, SQL, A/B testing, and ML model building (precisely customer segmentation model).*
 ----
 
 On June 9, 2023, I was announced the winner of the Data Analytics Super League 1.0 hosted by Lighthall. 
