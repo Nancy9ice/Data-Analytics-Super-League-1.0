@@ -60,7 +60,7 @@ Listed below are the expectations of Task 1:
 
 - Recommendations were made
 
-- [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGExZDYwNzgtYjFhYi00MWQ0LTkxMmItMGM2ZTZkNTQ1ZTM3IiwidCI6ImE4NjhhMGZiLWFmY2MtNGQyMC04NmRhLTM3N2ZiMzY0ZmFiNSJ9) was designed and published to track the purchase behavior of customer segments
+- [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/8da994a6-83d4-4536-8946-9dfbe58b2538/ReportSection2003205a4d52b97ed3c6?experience=power-bi) was designed and published to track the purchase behavior of customer segments
 
 All codes were written using [Python in this Jupyter notebook](https://github.com/Nancy9ice/Welcome-to-the-Real-World/blob/main/Task%201%20Python%20Code.ipynb). 
 
